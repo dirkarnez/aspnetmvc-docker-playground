@@ -1,3 +1,3 @@
 aspnetmvc-docker-playground
 ===========================
-From https://github.com/microsoft/dotnet-framework-docker/tree/main/samples/aspnetapp
+From [dotnet-framework-docker/samples/aspnetapp at main · microsoft/dotnet-framework-docker](https://github.com/microsoft/dotnet-framework-docker/tree/main/samples/aspnetapp)
