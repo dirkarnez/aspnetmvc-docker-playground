@@ -10,3 +10,6 @@ From [dotnet-framework-docker/samples/aspnetmvcapp at main · microsoft/dotnet-f
 
 ### Reference
 - [dirkarnez/microsoft-iis-action](https://github.com/dirkarnez/microsoft-iis-action)
+
+
+<!-- Security scan triggered at 2026-09-15 09:30:37 -->
